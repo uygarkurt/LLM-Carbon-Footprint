@@ -1,4 +1,4 @@
-# LLM Model Merging
+# Estimate Carbon Footprint and Energy Consumption - ML Models and LLMs
 
 <div align="center">
     <a href="">
