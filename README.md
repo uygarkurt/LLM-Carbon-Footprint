@@ -32,7 +32,7 @@ We will be using [CodeCarbon](https://github.com/mlco2/codecarbon) for this.
     <a href="https://www.youtube.com/watch?v=1PBneCKqiqQ">Estimate Carbon Footprint and Energy Consumption of ML Models and LLMs - HuggingFace, CodeCarbon</a>
     <br>
     <br>
-    <a href="https://youtu.be/gNXBp3wttFU">
+    <a href="https://www.youtube.com/watch?v=1PBneCKqiqQ">
         <img src="./assets/thumbnail.png" height="85%" width="85%%"/>
     </a>
 </div>
